@@ -121,10 +121,12 @@ img {
 
 .top-box-a {
     grid-area: top-box-a;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Atlas_from_boston_dynamics.jpg/220px-Atlas_from_boston_dynamics.jpg);
 }
 
 .top-box-b {
     grid-area: top-box-b;
+    background: url(https://www.bostondynamics.com/sites/default/files/styles/teaser_image/public/2018-04/Hero%20spot%20mini%20arm_0.jpg?itok=4OnEqcAR);
 }
 
 
