@@ -37,6 +37,16 @@ img {
 }
 
 
+/* Header */
+
+.header {
+    background: var(--primary);
+    text-align: left;
+    padding: 1.5rem 2rem;
+    box-shadow: var(--shadow);
+}
+
+
 /* Navigation */
 
 .main-nav ul {
